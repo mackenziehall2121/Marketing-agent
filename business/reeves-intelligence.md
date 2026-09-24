@@ -60,4 +60,8 @@ Intended difference: Reeves helps teams **assess fit and manage the opportunitie
 - Email list: has any of it been emailed before? What segments exist (WV vs LA, org size, contact role)?
 - Does the 7-day free trial require a credit card? (No card = lead magnet; card = tripwire)
 - Guarantee or refund terms
+- Where Reeves' grant data comes from, and how often it updates
+- How Reeves verifies accuracy (never quote an accuracy rate without verified data)
+- Reeves' actual data privacy and security practices, and a privacy policy link
+- Madison's booking link, phone number and title (Madison is the outreach sender)
 - Does the founder have grant-writing or nonprofit experience? (credibility for content)
