@@ -21,7 +21,7 @@ Built for **YAMM** (Yet Another Mail Merge): the column headers in your Google S
 
 ## Running it in YAMM
 1. **Sending account:** a Google Workspace inbox on a *separate* domain (e.g. `you@tryreeves.ai`), not `getreeves.ai` and not a personal @gmail.com. Warm it up for 2–3 weeks first.
-2. **Template:** write each email as a Gmail **draft** with the `{{Tags}}`, subject included. Plain text, no images.
+2. **Template:** write each email as a Gmail **draft** with the `{{Tags}}`, subject included. Plain text, no images. Every email must keep the signature with your mailing address (CAN-SPAM).
 3. **Batches:** one sheet tab per batch of about 200 contacts, one segment each (e.g. `WV-small-01`).
 4. **Volume:** start at 20–30 a day per inbox and ramp to 40–50 over a few weeks. Google's daily cap is a limit, not a goal.
 5. **Unsubscribe:** turn on YAMM's unsubscribe link. It stops future sends to anyone who clicks it.
@@ -62,6 +62,8 @@ I reached out a few days ago with a quick offer, in case it got buried: I'll pul
 Just reply "yes" and I'll get started.
 
 [Your name]
+Reeves Intelligence
+[Mailing address]
 
 ---
 
@@ -71,11 +73,13 @@ Just reply "yes" and I'll get started.
 
 Hi {{FirstName}},
 
-One thing we look at first when checking a grant: **who the funder has actually funded before**, not just what their guidelines say. If the past grantees look nothing like {{OrgName}} in size, location, or kind of work, that's often a sign to move on before anyone spends a weekend on an application.
+One thing we look at first when checking a grant: who the funder has actually funded before, not just what their guidelines say. If the past grantees look nothing like {{OrgName}} in size, location, or kind of work, that's often a sign to move on before anyone spends a weekend on an application.
 
 That check is part of what I'd send you in the free Grant Fit Check. Want it?
 
 [Your name]
+Reeves Intelligence
+[Mailing address]
 
 ---
 
@@ -93,6 +97,7 @@ Wishing you and the team a strong funding year.
 
 [Your name]
 Reeves Intelligence
+[Mailing address]
 
 ---
 
