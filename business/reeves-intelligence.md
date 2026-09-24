@@ -52,12 +52,12 @@ Intended difference: Reeves helps teams **assess fit and manage the opportunitie
 - Actively building prospect lists and outreach for first sales
 - Nonprofit research underway in **West Virginia** and **Los Angeles**
 - Time available: 25 hours/week, more if needed
-- Email list: ~20,000 contacts (source and opt-in status **unconfirmed**; see open questions)
+- Email list: ~20,000 contacts. **Researched prospect list of nonprofits (cold, not opted in).** Treat it as cold B2B outreach, not a newsletter list: separate sending domain, small daily volume, plain-text personal emails, clear opt-out, and move people onto the real (opted-in) list only when they reply or sign up.
 - Ad budget: $0
 
 ## Open questions (ask before writing on these topics)
 - Founder story: Reeves was created by the founder's **dad**. A real story exists, but it is **on hold**. Do not write or hint at a founder story until the founder provides it.
-- Email list: who is on it (nonprofits?), how they joined (opted in, or gathered through prospect research?), when they were last emailed, and which email platform it lives in
+- Email list: has any of it been emailed before? What segments exist (WV vs LA, org size, contact role)?
 - Does the 7-day free trial require a credit card? (No card = lead magnet; card = tripwire)
 - Guarantee or refund terms
 - Does the founder have grant-writing or nonprofit experience? (credibility for content)
