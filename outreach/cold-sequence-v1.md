@@ -1,8 +1,8 @@
-# Cold Outreach Sequence v1: Free Grant Fit Check
+# Cold Outreach Sequence v1: Demo + Free Grant Fit Check
 
 **Audience:** researched nonprofit prospects (West Virginia and Los Angeles). Cold: never opted in.
-**Goal of every email:** get a reply. Not a sale, not a signup.
-**Offer:** a free Grant Fit Check, with 3–5 current grants assessed against their mission.
+**Goal of every email:** get a reply or a demo view. Not a sale.
+**Offer:** Email 1 shares the walkthrough demo (https://youtu.be/MdZReSzp5X4). Emails 2–4 add a free Grant Fit Check (3–5 current grants assessed against their mission) for people who'd rather see it on their own organization.
 
 ## Merge fields (spreadsheet columns)
 
@@ -30,9 +30,31 @@ Built for **YAMM** (Yet Another Mail Merge): the column headers in your Google S
 
 ---
 
-## Email 1 (day 1)
+## Email 1 (day 1): share the demo
 
-**Subject:** grants for {{OrgName}}
+**Subject:** grant research for {{OrgName}}
+
+Hi {{FirstName}},
+
+I came across {{OrgName}}'s work {{MissionLine}}.
+
+Most nonprofit teams I talk to can find plenty of grant listings. The slow part is working out which ones actually fit their mission, area, and eligibility, and keeping the good ones organized.
+
+That's what we built Reeves to help with. Here's a short walkthrough that shows how it works:
+https://youtu.be/MdZReSzp5X4
+
+If it looks useful for {{OrgName}}, just reply and I'll set you up. And if someone else on your team handles grants, feel free to pass this along to them.
+
+[Your name]
+Reeves Intelligence
+[Mailing address]
+If this isn't relevant, reply "no thanks" and I won't email again.
+
+---
+
+**Variant 1B (test against 1A on half of each batch): no link, ask permission**
+
+Subject: grant research for {{OrgName}}
 
 Hi {{FirstName}},
 
@@ -40,14 +62,14 @@ I came across {{OrgName}}'s work {{MissionLine}}.
 
 Quick question: when a grant looks promising, how long does it take your team to figure out whether you actually fit the funder's focus, area, and eligibility?
 
-We built Reeves to make that step faster. If it's useful, I'll run a free check and send you 3–5 current grants assessed against {{OrgName}}'s mission. No call needed.
-
-Want me to send them over?
+We built Reeves to make that step faster, and I have a short demo that shows how it works. Want me to send it over?
 
 [Your name]
 Reeves Intelligence
 [Mailing address]
 If this isn't relevant, reply "no thanks" and I won't email again.
+
+Why test it: a first cold email with no links tends to land in the inbox more reliably, and a "yes, send it" reply is a warmer lead than a silent video view. Compare replies (not opens) between 1A and 1B after the first 2–3 batches, then keep the winner.
 
 ---
 
@@ -57,7 +79,7 @@ If this isn't relevant, reply "no thanks" and I won't email again.
 
 Hi {{FirstName}},
 
-I reached out a few days ago with a quick offer, in case it got buried: I'll pull 3–5 open grants and note how each lines up with {{OrgName}}'s mission, location, and eligibility. It's free, and I'll send it by email.
+I sent over a short Reeves demo a few days ago. If you'd rather see it on your own organization than in a video, I'm happy to do that instead: I'll pull 3–5 open grants and note how each lines up with {{OrgName}}'s mission, location, and eligibility. It's free, and I'll send it by email.
 
 Just reply "yes" and I'll get started.
 
