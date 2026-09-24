@@ -73,19 +73,23 @@ Why test it: a first cold email with no links tends to land in the inbox more re
 
 ---
 
-## Email 2 (day 3)
+## Email 2 (day 3): no reply to Email 1 (sent by Madison)
 
-**Subject:** free grant check for {{OrgName}}
+**Subject:** grants for {{OrgName}}
+(Alternates to test: "a simpler way to see Reeves" · "{{FirstName}}, 3 grants for {{OrgName}}?")
 
 Hi {{FirstName}},
 
-I sent over a short Reeves demo a few days ago. If you'd rather see it on your own organization than in a video, I'm happy to do that instead: I'll pull 3–5 open grants and note how each lines up with {{OrgName}}'s mission, location, and eligibility. It's free, and I'll send it by email.
+A few days ago I sent a short demo of Reeves, the tool we built to help nonprofit teams figure out which grants actually fit their mission and eligibility.
 
-Just reply "yes" and I'll get started.
+If watching a video isn't the best use of your time right now, here's an easier way to see whether it's useful. I'll run {{OrgName}} through Reeves and email you 3–5 current grants, with a short note on how each one lines up with your mission, location, and eligibility. It's free, and no call is needed.
 
-[Your name]
+Just reply "yes" and I'll send them over this week.
+
+Madison
 Reeves Intelligence
 [Mailing address]
+If this isn't relevant, reply "no thanks" and I won't email again.
 
 ---
 
