@@ -17,7 +17,16 @@
 
 `MissionLine` should finish the sentence "I came across {{OrgName}}'s work ___." Keep it short and in their own words from their website. If you don't have it for a contact, don't email that contact yet.
 
-Merge-tag syntax varies by tool (`{{FirstName}}`, `«FirstName»`, and so on). Swap in your tool's format.
+Built for **YAMM** (Yet Another Mail Merge): the column headers in your Google Sheet must match the `{{Tags}}` exactly, including capitals. YAMM adds its own `Merge status` column. Keep our `Status` column too, for replies YAMM misses.
+
+## Running it in YAMM
+1. **Sending account:** a Google Workspace inbox on a *separate* domain (e.g. `you@tryreeves.ai`), not `getreeves.ai` and not a personal @gmail.com. Warm it up for 2–3 weeks first.
+2. **Template:** write each email as a Gmail **draft** with the `{{Tags}}`, subject included. Plain text, no images.
+3. **Batches:** one sheet tab per batch of about 200 contacts, one segment each (e.g. `WV-small-01`).
+4. **Volume:** start at 20–30 a day per inbox and ramp to 40–50 over a few weeks. Google's daily cap is a limit, not a goal.
+5. **Unsubscribe:** turn on YAMM's unsubscribe link. It stops future sends to anyone who clicks it.
+6. **Follow-ups:** YAMM sends each email as a *new* message, not a reply in the thread. So each follow-up below is written to make sense on its own. Before each follow-up, filter the tab to remove anyone whose `Merge status` is RESPONDED, UNSUBSCRIBED or BOUNCED, **and** anyone whose `Status` you marked replied or unsubscribed (check your inbox, since people sometimes reply from another address). Then send the next draft to what's left.
+7. **Never** fake "Re:" or "Fwd:" in a subject to imply a past conversation. It's deceptive and violates CAN-SPAM.
 
 ---
 
@@ -42,11 +51,13 @@ If this isn't relevant, reply "no thanks" and I won't email again.
 
 ---
 
-## Email 2 (day 3, same thread, reply to Email 1)
+## Email 2 (day 3)
+
+**Subject:** free grant check for {{OrgName}}
 
 Hi {{FirstName}},
 
-Floating this back up in case it got buried. The offer stands: I'll pull 3–5 open grants and note how each lines up with {{OrgName}}'s mission, location, and eligibility. It's free, and I'll send it by email.
+I reached out a few days ago with a quick offer, in case it got buried: I'll pull 3–5 open grants and note how each lines up with {{OrgName}}'s mission, location, and eligibility. It's free, and I'll send it by email.
 
 Just reply "yes" and I'll get started.
 
@@ -54,7 +65,9 @@ Just reply "yes" and I'll get started.
 
 ---
 
-## Email 3 (day 7, same thread)
+## Email 3 (day 7)
+
+**Subject:** a quick grant red flag
 
 Hi {{FirstName}},
 
@@ -66,11 +79,13 @@ That check is part of what I'd send you in the free Grant Fit Check. Want it?
 
 ---
 
-## Email 4 (day 12, same thread, last one)
+## Email 4 (day 12, last one)
+
+**Subject:** closing the loop, {{FirstName}}
 
 Hi {{FirstName}},
 
-I'll stop here so I'm not cluttering your inbox.
+I've sent a couple of notes about a free Grant Fit Check for {{OrgName}}. I'll stop here so I'm not cluttering your inbox.
 
 If sorting out which grants are worth {{OrgName}}'s time ever becomes a headache, just reply to this email and I'll send the free Grant Fit Check whenever it's useful.
 
@@ -82,7 +97,7 @@ Reeves Intelligence
 ---
 
 ## Rules while running it
-- **Stop the sequence the moment someone replies**, whether it's yes, no or a question. If your tool doesn't stop automatically, update `Status` by hand before each send.
+- **Stop the sequence the moment someone replies**, whether it's yes, no or a question. YAMM doesn't stop follow-ups on its own, so filter before every send (step 6 above).
 - **Anyone who says no or asks to be removed** gets `unsubscribed` and is never emailed again from any address.
 - **Bounced addresses** get `bounced` and are removed.
 - **"Yes" replies:** send the Fit Check within 24 hours. Then offer the 7-day trial (https://getreeves.ai/signup.html) or a 15-minute call, and ask if they'd like to join the Reeves email list.
