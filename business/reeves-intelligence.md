@@ -26,7 +26,15 @@ Finding grant listings is easy. Working out which ones the organization actually
 Having time for the grants that matter and confidence that the time is well spent, instead of the dread of another afternoon lost to listings they don't qualify for. Every step ends in more funding for the mission they got into this work to serve.
 
 ## Pricing
-Subscription with several price tiers. Tier names, prices and what each includes are **not yet confirmed**.
+All tiers: 7-day free trial. Signup: https://getreeves.ai/signup.html · Walkthrough video: https://youtu.be/MdZReSzp5X4
+
+| Tier | Annual billing | Month to month | Includes |
+|---|---|---|---|
+| **Core** | $199/mo ($2,388/yr) | $238/mo | Discovery and mission matching; review and pursuit pipeline; writer scheduling; up to 2 users |
+| **Pro** | $399/mo ($4,788/yr) | $438/mo | Everything in Core; broader discovery reach; funding intelligence reports; priority support |
+| **Max** | $899/mo ($10,788/yr) | $938/mo | Everything in Pro; forecasting and advanced intelligence; up to 15 users; high-touch onboarding |
+
+Revenue math (annual plans): $1M/yr ≈ 419 Core, or 209 Pro, or 93 Max customers.
 
 ## Proof status (hard rules)
 - Reeves is **working toward its first sales**. There are no verified customer results, testimonials or performance numbers yet.
@@ -43,14 +51,13 @@ Intended difference: Reeves helps teams **assess fit and manage the opportunitie
 - Website: getreeves.ai
 - Actively building prospect lists and outreach for first sales
 - Nonprofit research underway in **West Virginia** and **Los Angeles**
-- Time available: founder's answer read "25", assumed to be hours per week (**confirm**)
-- Email list size: unknown (**confirm**)
-- Ad budget: unknown (**confirm**)
+- Time available: 25 hours/week, more if needed
+- Email list: ~20,000 contacts (source and opt-in status **unconfirmed**; see open questions)
+- Ad budget: $0
 
 ## Open questions (ask before writing on these topics)
-- Founder story: what personal moment or experience led to building Reeves? **Ask before writing any founder story. Do not invent one.**
-- Price tiers: names, prices, features
-- Is there a free trial, and does it need a card?
+- Founder story: Reeves was created by the founder's **dad**. A real story exists, but it is **on hold**. Do not write or hint at a founder story until the founder provides it.
+- Email list: who is on it (nonprofits?), how they joined (opted in, or gathered through prospect research?), when they were last emailed, and which email platform it lives in
+- Does the 7-day free trial require a credit card? (No card = lead magnet; card = tripwire)
 - Guarantee or refund terms
-- Confirm the meaning of "25" (hours per week?), plus list size and ad budget
 - Does the founder have grant-writing or nonprofit experience? (credibility for content)
